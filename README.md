@@ -1,6 +1,6 @@
 ### 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟 Hi  I´m Juan 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 # 💫About Me :
-#🍁I´m currently learning JavaScript and Vue;
+# 🍁I´m currently learning JavaScript and Vue:
 #🍁I´m currently learning French;
 #🍁I´m a systems engineering student;
 
